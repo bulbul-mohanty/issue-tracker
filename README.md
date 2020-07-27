@@ -1,1 +1,1 @@
-## This project have one page which shows the issues raised for facebook/react project in github
+## This project have one page which shows the issues raised for facebook/react repository available in github
